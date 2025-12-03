@@ -1,46 +1,15 @@
 📌 Sistema Bancario – Trabajo Práctico POO
 
-Este proyecto corresponde al segundo trabajo práctico de la materia Programación Orientada a Objetos.
-El objetivo fue modelar un sistema bancario aplicando los principales conceptos de POO y reflejarlos en código Java.
+Este proyecto corresponde al segundo trabajo práctico de la materia Programación Orientada a Objetos. El objetivo fue modelar un sistema bancario aplicando los principales conceptos de POO y reflejarlos en código Java mediante un diseño modular y orientado a entidades.
 
-📎 Contenido del proyecto
+📘 Conceptos técnicos aplicados
 
-Diagrama UML con el modelado de las clases y sus relaciones.
-
-Código Java que implementa las clases y funcionalidades.
-
-Pruebas unitarias (JUnit) para validar el comportamiento esperado.
-
-🧩 Conceptos aplicados
-
-Clases padre e hijas
-
-Herencia y polimorfismo
-
-Clases abstractas
-
-Atributos y métodos
-
-Relaciones entre clases
-
-Encapsulamiento
-
-Reutilización de código
+Clases padre e hijas — Herencia y polimorfismo — Clases abstractas — Encapsulamiento — Relaciones entre clases — Reutilización de código — Modelado UML — Pruebas unitarias para validar comportamiento.
 
 🏦 Funcionalidades principales
 
-El sistema gestiona clientes y cuentas bancarias, permitiendo:
+Gestión de clientes y cuentas bancarias — Depósitos y extracciones — Cobro de intereses — Depósito de cheques — Manejo de cuentas en pesos y en dólares — Validación de operaciones y saldos.
 
-Depósitos y extracciones
+🛠️ Tecnologías y herramientas utilizadas
 
-Cobro de intereses
-
-Depósitos de cheques
-
-Manejo de cuentas en pesos y en dólares
-
-Validación de operaciones y saldos
-
-▶️ Ejecución
-
-El proyecto fue desarrollado utilizando Visual Studio Code con entorno Java.
+Java — UML para modelado — JUnit para pruebas unitarias — Visual Studio Code como entorno de desarrollo.
